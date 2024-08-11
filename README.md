@@ -74,3 +74,6 @@ Convention
 <br>
 
 ## <strong> ✍️ 분류 </strong>
+
+### WEB
+- [WebRTC와 MediaPipe 성능 최적화](https://github.com/JJOK97/DevTIL/blob/main/WebRTC/WebRTC%EC%99%80%20MediaPipe%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
