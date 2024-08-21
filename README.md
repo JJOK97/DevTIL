@@ -78,3 +78,6 @@ Convention
 ### WEB
 - [[애플리케이션 구동방식] CSR vs SSR: 웹 렌더링 방식의 선택](https://github.com/JJOK97/DevTIL/blob/main/Web/%5B%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B5%AC%EB%8F%99%20%EB%B0%A9%EC%8B%9D%5D%20CSR%20vs%20SSR%20%3A%20%EC%9B%B9%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EB%B0%A9%EC%8B%9D%EC%9D%98%20%EC%84%A0%ED%83%9D.md)
 - [WebRTC와 MediaPipe 성능 최적화](https://github.com/JJOK97/DevTIL/blob/main/WebRTC/WebRTC%EC%99%80%20MediaPipe%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
+
+### LANG
+- [[Python] 금융 및 크롤링 라이브러리 종류](https://github.com/JJOK97/DevTIL/blob/main/Python/Python%EC%9D%98%20%EA%B8%88%EC%9C%B5%20%EB%B0%8F%20%ED%81%AC%EB%A1%A4%EB%A7%81%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
