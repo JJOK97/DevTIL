@@ -80,4 +80,4 @@ Convention
 - [WebRTC와 MediaPipe 성능 최적화](https://github.com/JJOK97/DevTIL/blob/main/WebRTC/WebRTC%EC%99%80%20MediaPipe%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
 
 ### LANG
-- [[ Python ] 금융 및 크롤링 라이브러리의 종류](https://github.com/JJOK97/DevTIL/blob/main/Python/Python%EC%9D%98%20%EA%B8%88%EC%9C%B5%20%EB%B0%8F%20%ED%81%AC%EB%A1%A4%EB%A7%81%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
+- [[ Python ] 금융 및 크롤링 라이브러리의 종류](https://github.com/JJOK97/DevTIL/blob/main/Python/%5BPython%5D%20%EA%B8%88%EC%9C%B5%20%EB%B0%8F%20%ED%81%AC%EB%A1%A4%EB%A7%81%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
